@@ -9,7 +9,7 @@ At the start you will be able to place start and goal blocks to tell the game we
 - Goal (Yellow) - the point the algorithm is trying to reach
 - Vacant (White) - blocks that the algorithm did not search yet but can  
 - Checked (Orange) - blocks that were checked by the algorithm
-- Path (Green) - only appears in auto search, show the fastest route to the goal
+- Path (Green) - only appears in auto search, shows the fastest route to the goal
 
 ## Controls:
 - Click - Make a solid, start or goal block where your mouse is
